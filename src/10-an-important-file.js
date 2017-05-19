@@ -1,6 +1,5 @@
 /*
 ## Task
-
 We are going to demonstrate this to ourselves by creating a chain
 of functions that all print to the console.
 
